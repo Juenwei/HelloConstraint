@@ -1,4 +1,4 @@
-package com.example.practical_2_part_a;
+package com.example.HelloContsraint;
 
 import org.junit.Test;
 
